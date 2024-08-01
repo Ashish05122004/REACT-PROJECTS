@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+.active{
+  color: rgba(236, 225, 28, 0.982);
+}
+body{
+  background-color:#090f1c;
+}
+.courgette-regular {
+  font-family: "Courgette", cursive;
+  font-style: normal;
+}
